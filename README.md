@@ -7,6 +7,9 @@ script For fix no launch on Ubuntu Xfce.
 This file is solution for vscode current version (1.62.2) no responding and no opening the application vscode on Ubuntu LTS 20.4 Xfce Android. (Andronix.com)
 
 
+Visual Studio Code Linux Downloads : https://code.visualstudio.com/download
+Linux Dekstop Environment For Android : https://play.google.com/store/apps/details?id=studio.com.techriz.andronix
+
 
  On ubuntu 
 
