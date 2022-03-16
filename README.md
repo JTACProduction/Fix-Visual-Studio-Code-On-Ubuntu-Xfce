@@ -12,6 +12,9 @@ Linux Dekstop Environment For Android : https://play.google.com/store/apps/detai
 
 
  On ubuntu 
+ Frist you should untar this file.
+ Using "Tar -xvzf Launch-script.tar.gz
+
 
  Write the file using sudo frist and execute it from your downloads dictionary in bash (terminal emulator)
 
